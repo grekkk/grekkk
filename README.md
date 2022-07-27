@@ -1,5 +1,3 @@
-## Hi there, I'm grek! 👋
-
 ```css
 C:\Users\grek>neofetch
 
