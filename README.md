@@ -17,4 +17,4 @@ C:\Users\grek>neofetch
 ################   ################      💸 Yes :troll:
 ################   ################
 ```
-[![Discord Presence](https://discord.c99.nl/widget/theme-5/557595801682182147.png)](https://discord.com/users/557595801682182147)
+[![Discord Presence](https://discord.c99.nl/widget/theme-4/557595801682182147.png)](https://discord.com/users/557595801682182147)
