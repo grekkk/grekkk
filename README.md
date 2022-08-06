@@ -6,7 +6,7 @@ C:\Users\grek>neofetch
 ################   ################      👤 User: grek
 ################   ################      🔞 Age: 14
 ################   ################      🌍 Country: Poland
-################   ################      🌐 Website: https://pawel.tk/
+################   ################      🌐 Website: https://grek.wtf
 ################   ################      🔗 Discord: grek#1337
                                          
 ################   ################      grek@info
@@ -17,4 +17,4 @@ C:\Users\grek>neofetch
 ################   ################      💸 Yes :troll:
 ################   ################
 ```
-[![Discord Presence]([https://discord.c99.nl/widget/theme-4/557595801682182147.png)](https://discord.com/users/557595801682182147](https://lanyard.cnrad.dev/api/557595801682182147?borderRadius=5px&idleMessage=discord.gg/hoodsense&animated=true&bg=a))
+[![Discord Presence](https://discord.c99.nl/widget/theme-4/557595801682182147.png)](https://discord.com/users/557595801682182147)
