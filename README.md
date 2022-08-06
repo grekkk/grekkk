@@ -17,4 +17,4 @@ C:\Users\grek>neofetch
 ################   ################      💸 Yes :troll:
 ################   ################
 ```
-[![Discord Presence](https://discord.c99.nl/widget/theme-4/557595801682182147.png)](https://discord.com/users/557595801682182147)
+[![Discord Presence]([https://discord.c99.nl/widget/theme-4/557595801682182147.png)](https://discord.com/users/557595801682182147](https://lanyard.cnrad.dev/api/557595801682182147?borderRadius=5px&idleMessage=discord.gg/hoodsense&animated=true&bg=a))
