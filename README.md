@@ -17,4 +17,4 @@ C:\Users\grek>neofetch
 ################   ################      💸 Yes :troll:
 ################   ################
 ```
-[![Discord Presence](https://lanyard.cnrad.dev/api/804245361894883339)](https://discord.com/users/804245361894883339)
+[![Discord Presence](https://lanyard.cnrad.dev/api/804245361894883339)](https://grek.wtf)
